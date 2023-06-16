@@ -39,12 +39,19 @@ Passo 14: Análise Exploratória e respondendo perguntas de negócio
 ## Conclusão:
 
 A faixa etária de pacientes entre 70-80 é a que mais consome medicamentos.
+
 Pacientes do sexo feminino tem número maior de readmissões.
+
 A faixa etária de pacientes entre 70-80 é a que tem o maior número de readmissões.
+
 A faixa etária de pacientes entre 70-80 tem o maior percentual de readmissões, enquanto a faixa etária de 0-50 anos tem o menor percentual.
+
 Mulheres na faixa etária de 70-80 anos tem um número maior de readmissões por emergência.
+
 Mulheres Caucasianas são a maioria entre as mulheres readmitidas.
+
 Pacientes com comorbidade tem o maior número de visitas.
+
 Quanto mais visitas o paciente recebeu antes da alta, maior foi o volume de readmissões. Ou seja, quanto mais visitas o paciente recebe, maiores as chances de readmissão.
 
 ## Disclaimer:
